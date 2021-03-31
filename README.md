@@ -109,7 +109,7 @@ python app.py
 ```
 
 ```
-NOTE : Execute the mumbai_house_model.ipynb to get random_model.pkl before executing the whole app.
+NOTE : Execute the house_model.ipynb to get random_model.pkl before executing the whole app.
 ```
 ## Minimum Requirements
 
