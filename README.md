@@ -71,9 +71,9 @@ Note: At the end, you can deactivate it with: `conda deactivate`
 
 5. Fork the Project
 
-* Via HTTPS: `https://github.com/piyushr385/RealEstatePricePrediction.git`
-* via SSH:  `git@github.com:piyushr385/RealEstatePricePrediction.git`
-* via GitHub CLI `gh repo clone piyushr385/RealEstatePricePrediction`
+* Via HTTPS: `https://github.com/meghdeep1997/House-Price-Prediction.git`
+* via SSH:  `git@github.com:meghdeep1997/House-Price-Prediction.git`
+* via GitHub CLI `gh repo clone meghdeep1997/House-Price-Prediction`
 
 Note: Work fast with our official CLI. [Learn more]( https://cli.github.com/ "Learn more")
 
